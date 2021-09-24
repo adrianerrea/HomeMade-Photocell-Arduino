@@ -8,6 +8,9 @@ The idea of this arduino project is to simulate a photocell used in several loca
 
 Below I post the final squema for the connections I created with Fritzing Application (https://fritzing.org/).
 
+![Esquema_GitHub](https://user-images.githubusercontent.com/18461107/134689311-b1d2487c-724e-40b8-a5d5-212655dd0301.png)
+
+
 ## Operation
 
 The goal of the project is to be able to measure the time from two different moments triggered but the same action: something/someone crossing in front of the ultrasonic sensor. This way we can measure the time from two different intervals and show the time elapsed through the LCD display. As commented before, this project tries to replicate the behaviour of photocells but much more cheaper (and little less accuracy and reliable 😝). When you connect the Controller Board to the power (it can be a computer, a power bank, etc.) a beautiful melody arises from the kit letting you know that the kit is ready to rock!
