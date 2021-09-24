@@ -6,9 +6,7 @@
 
 The idea of this arduino project is to simulate a photocell used in several locations like sports trials, presence detection and so on. My first idea was to have a prototipe as little as possible but working as I wanted. Then I would make it better from there.
 
-Below I post the final squema for the connections I created with Fritzing Application (https://fritzing.org/).
-
-![Esquema_GitHub](https://user-images.githubusercontent.com/18461107/134689311-b1d2487c-724e-40b8-a5d5-212655dd0301.png)
+I post the final schema for the connections I created with Fritzing Application (https://fritzing.org/) in the repository as well.
 
 
 ## Operation
