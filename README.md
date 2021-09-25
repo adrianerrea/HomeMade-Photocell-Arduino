@@ -34,6 +34,10 @@ I bought an Arduino Starter Kit UNO R3 since I was pretty sure it would be more 
 
 The code is in the repository. Check it out to see all the details.
 
+## Demo
+
+In the repository you can watch a little demo of the kit working
+
 ## Conclusions and Improvements
 
 I am quite happy with the result taking into account this is my first type of projects by my own (I made more of them at the university) so I can only improve from here! 😂
