@@ -36,7 +36,7 @@ The code is in the repository. Check it out to see all the details.
 
 ## Demo
 
-In the repository you can watch a little demo of the kit working
+In the repository you can watch a little demo of the kit working.
 
 ## Conclusions and Improvements
 
